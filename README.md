@@ -25,7 +25,7 @@ The project is structured as follows:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/alireza-bigquery-release-notes.git
+git clone https://github.com/AlirezaFakari/alireza-bigquery-release-notes.git
 cd alireza-bigquery-release-notes
 ```
 
