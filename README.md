@@ -2,6 +2,8 @@
 
 A modern Flask-based web application that tracks, parses, and visualizes Google Cloud BigQuery release notes. The app fetches updates from the official Google Cloud feeds, structures individual updates by category (e.g., Features, Changes, Deprecations), and serves them through a clean web UI and a structured API.
 
+![Dashboard](docs/screenshot.png)
+
 ## Features
 
 - **Real-time Parsing:** Automatically fetches and processes Google's official BigQuery Atom release feed (`https://docs.cloud.google.com/feeds/bigquery-release-notes.xml`).
