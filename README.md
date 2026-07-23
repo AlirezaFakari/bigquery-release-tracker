@@ -26,7 +26,7 @@ The project is structured as follows:
 
 ```bash
 git clone https://github.com/AlirezaFakari/bigquery-release-tracker.git
-cd alireza-bigquery-release-notes
+cd bigquery-release-tracker
 ```
 
 ### 2. Set Up a Virtual Environment
